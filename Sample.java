@@ -36,5 +36,8 @@ public class Sample{
         int weeks = weeksBetween(startDate, endDate);
         // print the no of weeks
         System.out.println(weeks);
+        System.out.println("Giri Prasad P");
+        System.out.println("Sathish Babu");
+        System.out.println("GitHub Repo");
     }   
 }
