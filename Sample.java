@@ -35,6 +35,8 @@ public class Sample{
         // calculate the no of weeks between two dates
         int weeks = weeksBetween(startDate, endDate);
         // print the no of weeks
+        System.out.println(startDate);
+        System.out.println(endDate);
         System.out.println(weeks);
         System.out.println("Giri Prasad P");
         System.out.println("Sathish Babu");
